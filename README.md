@@ -1,2 +1,2 @@
 # ajiledev.github.io
-blog.html
+[Blog](https://ajiledev.github.io/blog.html)
